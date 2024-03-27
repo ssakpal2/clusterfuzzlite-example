@@ -2,7 +2,7 @@
 // Licensed under the Apache License, Version 2.0 (the "License");
 #include "my_api.h"
 
-#include <string>
+#include <string> 
 #include <stdlib.h>
 
 // Simple fuzz target for DoStuff().
